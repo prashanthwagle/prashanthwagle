@@ -58,8 +58,6 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
 
 
-## Misc
-![Built Progress](https://img.shields.io/badge/Build-In%20Progress-yellow)
-![Built with](https://forthebadge.com/images/badges/made-with-markdown.svg)
+## GitHub Readme
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
