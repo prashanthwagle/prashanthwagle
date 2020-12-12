@@ -5,17 +5,17 @@
 </p>
 
 
-## 🔭 What I do...
+## 🔭 What I do
 I am a full-stack web developer with Javascript and Python in my arsenal. 
 
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 
-## 🌱 I’m currently learning...
+## 🌱 I’m currently learning
 Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
-## 🛠️ My Tech Stack ...
+## 🛠️ My Tech Stack
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -29,6 +29,8 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+
 
 
 
