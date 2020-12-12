@@ -1,4 +1,4 @@
-### Hey, Prashanth here 👋
+
 
 <p align="center">
   <img src="https://github.com/prashanthwagle/prashanthwagle/blob/main/2020-12-12_23-44.png" width="100%" title="Intro Card" alt="Intro Card">
