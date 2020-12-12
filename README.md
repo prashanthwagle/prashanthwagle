@@ -31,5 +31,8 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ## Get in Touch
+<img src="https://img.shields.io/twitter/follow/prawag?label=Connect">
+
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/prashanth-p-wagle360/)
 
