@@ -18,9 +18,11 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
 
 
-## 🔮 What I intend to learn in the future
+## 🔮 My Wishlist (Apart from getting better in the current tech-stack)
 
-![Open Source Love png1](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Open Source Love png1](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![Open Source Love png1](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
 
                                                                                                    
                                                                                                   
@@ -43,7 +45,13 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+
+## 🥮 Previous Experience
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 
 
 ## 📚 Blogs
@@ -58,5 +66,5 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
 
 ## 🙏 Thank you for stopping by! Have a great day!
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) 
 
