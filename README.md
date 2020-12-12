@@ -5,7 +5,7 @@
 </p>
 
 
-## 🔭 What I do
+## 🔭 About me
 I am a full-stack web developer with Javascript and Python in my arsenal. 
 
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)  ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -17,18 +17,17 @@ I am a full-stack web developer with Javascript and Python in my arsenal.
 Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
 
+
 ## 🔮 What I intend to learn in the future
 
-<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src = https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+![Open Source Love png1](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+                                                                                                   
+                                                                                                  
 
 ## 🛠️ My Tech Stack
 
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -54,12 +53,14 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
 
 ## Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-p-wagle360/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-p-wagle360/)  
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11004108/prashanth-wagle) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prashanth_wagle) 
 
 
 
-## About
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+## Misc
+![Built Progress](https://img.shields.io/badge/Build-In%20Progress-yellow)
+![Built with](https://forthebadge.com/images/badges/made-with-markdown.svg)
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
