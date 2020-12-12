@@ -12,9 +12,13 @@ I am a full-stack web developer with Javascript and Python in my arsenal.
 
 
 
+
+
 ## 🌱 I’m currently learning
 
 Pushing past my limits in React and striving to benefit the maximum from Cloud.
+
+
 
 
 
@@ -26,6 +30,8 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
                                                                                                    
                                                                                                   
+
+
 
 ## 🛠️ My Tech Stack
 
@@ -46,11 +52,17 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
+
+
+
 ## 🥮 Previous Experience
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+
+
 
 
 
@@ -60,8 +72,13 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prashanthwagle) 
 
 
+
+
+
 ## 📇 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-p-wagle360/) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11004108/prashanth-wagle) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prashanth_wagle) 
+
+
 
 
 
