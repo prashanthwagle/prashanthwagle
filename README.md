@@ -8,7 +8,6 @@
 ## 🔭 About me
 I am a full-stack web developer with Javascript and Python in my arsenal. 
 
-![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)  ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 
@@ -22,7 +21,7 @@ Pushing past my limits in React and striving to benefit the maximum from Cloud.
 
 
 
-## 🔮 My Wishlist (Apart from getting better in the current tech-stack)
+## 🔮 What I would like to explore
 
 ![Open Source Love png1](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Open Source Love png1](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Open Source Love png1](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![Open Source Love png1](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
