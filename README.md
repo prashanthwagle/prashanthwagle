@@ -13,11 +13,9 @@ I am a full-stack web developer with Javascript and Python in my arsenal.
 
 
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently into
 
-Pushing past my limits in React and striving to benefit the maximum from Cloud.
-
-
+Web Performance, React Patterns and Reusability, Research on Concept Drift
 
 
 
