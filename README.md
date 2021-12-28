@@ -15,7 +15,7 @@ I am a full-stack web developer and a researcher. This profile provides an overv
 
 ## 🌱 I’m currently into
 
-Web Performance, React Patterns and Reusability, Research on Concept Drift, Class Imbalance, ML-driven security etc. 
+Web Performance, React Patterns and Reusability, Research on MLSec, concept drift and CFGs
 
 
 
