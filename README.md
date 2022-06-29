@@ -5,17 +5,22 @@
 </p>
 
 
+
 ## 🔭 About me
 I am a full-stack web developer and a researcher. This profile provides an overview of my professional profile only.
 
 
 
 
+## 🌱 As a dev, I have experience in
+
+Full-stack Web Software Development (JS), Amazon Web Services (Architecting and Development)
 
 
-## 🌱 I’m currently into
 
-Software Development, Full-stack Web Development (JS), Amazon Web Services (Architecting and Development) Research on MLSec
+## 🔬 I have research experience in
+
+MLSec, Data-driven security
 
 
 
@@ -48,14 +53,10 @@ Software Development, Full-stack Web Development (JS), Amazon Web Services (Arch
 
 
 
-
-
 ## 📚 Some things where I used to write before moving on towards research paper
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prashanthwagle360) 
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prashanthwagle) 
-
-
 
 
 
