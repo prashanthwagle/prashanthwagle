@@ -53,7 +53,7 @@ MLSec, Data-driven security
 
 
 
-## 📚 Some things where I used to write before moving on towards research paper
+## 📚 Some things where I used to write before moving on towards academic research 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prashanthwagle360) 
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prashanthwagle) 
