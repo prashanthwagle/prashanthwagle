@@ -15,11 +15,11 @@ I am a full-stack web developer and a researcher. This profile provides an overv
 
 ## 🌱 I’m currently into
 
-Web Development (Full Stack), Research on MLSec
+Software Development, Full-stack Web Development (JS), Research on MLSec
 
 
 
-## 🛠️ Things that I have worked on
+## 🛠️ Things that I have worked on during my time as a developer
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -36,7 +36,6 @@ Web Development (Full Stack), Research on MLSec
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 
 
