@@ -19,7 +19,7 @@ Web Development (Full Stack), Research on MLSec
 
 
 
-## 🛠️ My Tech Stack
+## 🛠️ Things that I have worked on
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -41,7 +41,7 @@ Web Development (Full Stack), Research on MLSec
 
 
 
-## 🥮 Previous Experience
+## 🥮 Things that I have worked on but consider it as previous experience
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -51,7 +51,7 @@ Web Development (Full Stack), Research on MLSec
 
 
 
-## 📚 Blogs
+## 📚 Some things where I used to write before moving on towards research paper
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prashanthwagle360) 
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prashanthwagle) 
@@ -60,7 +60,7 @@ Web Development (Full Stack), Research on MLSec
 
 
 
-## 📇 Get in Touch
+## 📇 Say hi!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-p-wagle360/) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11004108/prashanth-wagle) 
 
 
