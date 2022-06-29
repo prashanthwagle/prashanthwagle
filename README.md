@@ -15,7 +15,7 @@ I am a full-stack web developer and a researcher. This profile provides an overv
 
 ## 🌱 I’m currently into
 
-Web Performance, React Patterns and Reusability, Research on MLSec, Data-Driven Sec
+Web Development (Full Stack), Research on MLSec
 
 
 
