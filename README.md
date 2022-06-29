@@ -15,7 +15,7 @@ I am a full-stack web developer and a researcher. This profile provides an overv
 
 ## 🌱 I’m currently into
 
-Software Development, Full-stack Web Development (JS), Research on MLSec
+Software Development, Full-stack Web Development (JS), Amazon Web Services (Architecting and Development) Research on MLSec
 
 
 
