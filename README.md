@@ -7,7 +7,7 @@
 
 
 ## 🔭 About me
-I am a software developer and a researcher
+I am a software developer and a researcher, enrolled as a grad student at the University of Virginia
 
 
 
