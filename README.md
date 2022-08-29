@@ -7,7 +7,7 @@
 
 
 ## 🔭 About me
-I am a software developer and a researcher.
+I am a software developer and a researcher
 
 
 
