@@ -7,14 +7,14 @@
 
 
 ## 🔭 About me
-I am a full-stack web developer and a researcher. This profile provides an overview of my professional profile only.
+I am a software developer and a researcher.
 
 
 
 
 ## 🌱 As a dev, I have experience in
 
-Full-stack Web Software Development (JS), Amazon Web Services (Architecting and Development)
+Full-stack Web Software Development (JS), Serverless and Scripting (Python), Amazon Web Services (Architecting and Development)
 
 
 
@@ -62,8 +62,6 @@ MLSec, Data-driven security
 
 ## 📇 Say hi!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-p-wagle360/) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11004108/prashanth-wagle) 
-
-
 
 
 
