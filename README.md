@@ -16,9 +16,9 @@ You can usually spot me in the Brown Library at the University of Virginia, wher
 I'm a full-stack web wizard with skills that would make even Dumbledore jealous! My toolkit includes JavaScript for web software development, Python for serverless scripting, and Amazon Web Services for all your architecting and development needs. And just for fun, I like to throw R into the mix, because why not? So if you need a magical developer to make your dreams a reality, just give me a shout!
 
 
-## 🔬 Recently I have been working on
+## 🔬 What am I up to these days?
 
-I've been a busy bee buzzing around an exciting new project: building an open-source software for creating low-code, web-based dashboards in R.
+I've been a busy bee buzzing around an exciting new project: building an open-source software for creating low-code, web-based dashboards in R. I also utilize my time in exploring other fields which pique my interest.
 
 
 
