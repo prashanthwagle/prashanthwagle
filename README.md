@@ -41,7 +41,7 @@ I've been a busy bee buzzing around an exciting new project: building an open-so
 
 
 
-## 📚 Some things where I used to write before reading academic journals
+## 📚 Ah, the good old days. Back before I was a serious academic
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prashanthwagle360) 
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prashanthwagle) 
