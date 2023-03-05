@@ -7,20 +7,18 @@
 
 
 ## 🔭 About me
-I am a software developer and a researcher, enrolled as a grad student at the University of Virginia
+You can usually spot me in the Brown Library at the University of Virginia, where I'm stationed like a java-fueled sentry in one of the cozy coffee pods. My day-to-day involves typing feverishly on my keyboard to make those sweet, sweet lines of code dance and sing. In short, I'm just your (above) average caffeine-dependent, code-crunching grad student.
 
 
 
+## 🌱 What I do?
 
-## 🌱 As a dev, I have experience in
-
-Full-stack Web Software Development (JS), Serverless and Scripting (Python), Amazon Web Services (Architecting and Development)
-
+I'm a full-stack web wizard with skills that would make even Dumbledore jealous! My toolkit includes JavaScript for web software development, Python for serverless scripting, and Amazon Web Services for all your architecting and development needs. And just for fun, I like to throw R into the mix, because why not? So if you need a magical developer to make your dreams a reality, just give me a shout!
 
 
-## 🔬 I have research experience in
+## 🔬 Recently I have been working on
 
-MLSec, Data-driven security
+I've been a busy bee buzzing around an exciting new project: building an open-source software for creating low-code, web-based dashboards in R.
 
 
 
@@ -28,10 +26,8 @@ MLSec, Data-driven security
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -45,15 +41,7 @@ MLSec, Data-driven security
 
 
 
-## 🥮 Things that I have worked on but consider it as previous experience
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
-
-
-
-## 📚 Some things where I used to write before moving on towards academic research 
+## 📚 Some things where I used to write before reading academic journals
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prashanthwagle360) 
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prashanthwagle) 
