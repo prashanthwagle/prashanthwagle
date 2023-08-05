@@ -7,14 +7,13 @@
 
 
 ## 🔭 About me
-You can usually spot me in the Brown Library at the University of Virginia, where I'm stationed like a java-fueled sentry in one of the cozy coffee pods. My day-to-day involves typing feverishly on my keyboard to make those sweet, sweet lines of code dance and sing. In short, I'm just your (above) average caffeine-dependent, code-crunching grad student.
+You can usually spot me in the Brown Library at the University of Virginia, where I'm stationed like a java-fueled sentry in one of the cozy coffee pods. My day-to-day involves typing feverishly on my keyboard to make those sweet, sweet lines of code. 
 
 
 
 ## 🌱 What I do?
 
-I'm a full-stack web wizard with skills that would make even Dumbledore jealous! My toolkit includes JavaScript for web software development, Python for serverless scripting, and Amazon Web Services for all your architecting and development needs. And just for fun, I like to throw R into the mix, because why not? So if you need a magical developer to make your dreams a reality, just give me a shout!
-
+I'm a full-stack web wizard with skills that would make even Dumbledore jealous! My toolkit includes JavaScript for web software development, Python for serverless scripting, and Amazon Web Services for all your architecting and development needs.
 
 ## 🔬 What am I up to these days?
 
