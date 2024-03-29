@@ -12,7 +12,8 @@ A software developer whose practice is rooted in finding a balance between time 
 
 ## 🌱 What I do?
 
-I am an expert level developer in the JavaScript and Python Enterprise web development tech stack -- React, Node.js, Express, AWS -- I have 2+ years of work experience in these
+I am an expert level developer in the JavaScript and Python Enterprise web development tech stack -- React, Node.js, Express, AWS -- I have 2+ years of work experience in these technologies
+
 I am an intermediate level developer when it comes to traditional OOP languages such as Java and C# -- I have considerable work experience with these too
 
 ## 🔬 What am I up to these days?
