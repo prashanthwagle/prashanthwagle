@@ -7,24 +7,24 @@
 
 
 ## 🔭 About me
-You can usually spot me in the Brown Library at the University of Virginia, where I'm stationed like a java-fueled sentry in one of the cozy coffee pods. My day-to-day involves typing feverishly on my keyboard to make those sweet, sweet lines of code. 
-
+A software developer whose practice is rooted in finding a balance between time and writing clean, readable, extensible, and testable code
 
 
 ## 🌱 What I do?
 
-I'm a full-stack web wizard with skills that would make even Dumbledore jealous! My toolkit includes JavaScript for web software development, Python for serverless scripting, and Amazon Web Services for all your architecting and development needs.
+I am an expert level developer in the JavaScript and Python Enterprise web development tech stack -- React, Node.js, Express, AWS -- I have 2+ years of work experience in these
+I am an intermediate level developer when it comes to traditional OOP languages such as Java and C# -- I have considerable work experience with these too
 
 ## 🔬 What am I up to these days?
 
-I've been a busy bee buzzing around an exciting new project: building an open-source software for creating low-code, web-based dashboards in R. I also utilize my time in exploring other fields which pique my interest.
-
+I am looking for an interesting opportunity that comes by my way, so please visit my LinkedIn and DM me or mail me at frk5pa@virginia.edu
 
 
 ## 🛠️ Things that I have worked on during my time as a developer
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
@@ -36,15 +36,8 @@ I've been a busy bee buzzing around an exciting new project: building an open-so
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-
-
-
-## 📚 Ah, the good old days. Back before I was a serious academic
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prashanthwagle360) 
-[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prashanthwagle) 
-
+![C#](https://img.shields.io/badge/_-CS-178600.svg?style=for-the-badge)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 ## 📇 Say hi!
@@ -54,4 +47,4 @@ I've been a busy bee buzzing around an exciting new project: building an open-so
 
 ## 🙏 Thank you for stopping by! Have a great day!
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) 
-
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
