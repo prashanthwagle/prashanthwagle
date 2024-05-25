@@ -77,6 +77,6 @@ I am open to speaking with people and engaging in meaningful conversations. Feel
 
 
 
-## 🙏 Thank you for stopping by! Have a great day!
+## Support open source....please!
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
