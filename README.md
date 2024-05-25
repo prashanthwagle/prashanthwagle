@@ -6,19 +6,45 @@
 
 
 
-## 🔭 About me
-A software developer whose practice is rooted in finding a balance between time and writing clean, readable, extensible, and testable code
+## Who am I?
 
+I am a Software Engineer and researcher with a specialization in thriving in research spaces and fast-paced environments.
 
-## 🌱 What I do?
+## What do I do?
 
-I am an expert level developer in the JavaScript and Python Enterprise web development tech stack -- React, Node.js, Express, AWS -- I have 2+ years of work experience in these technologies
+I focus on end-to-end application development, problem-solving, and leveraging innovative methodologies to digitize and transform businesses.
 
-I am an intermediate level developer when it comes to traditional OOP languages such as Java and C# -- I have considerable work experience with these too
+## What excites me?
 
-## 🔬 What am I up to these days?
+I am excited by opportunities to learn quickly, solve complex problems, and collaborate with diverse teams. I also find joy in organizing events and forming communities that positively impact each other's work.
 
-I am looking for an interesting opportunity that comes by my way, so please visit my LinkedIn and DM me or mail me at frk5pa@virginia.edu
+## What is my educational background?
+
+I hold a Bachelor's Degree in Information Science and Engineering and a Master's Degree in Computer Science from the prestigious University of Virginia, where I graduated with a GPA of 3.97/4.00.
+
+## What notable achievements do I have from my education?
+
+At the University of Virginia, I was part of the Graduate Engineering Student Council and organized the flagship UVERS symposium, increasing participation by 68% compared to the previous year.
+
+## What significant milestones have I achieved in my career?
+
+During COVID, I played a significant role in digitizing a company, increasing business output by 10%. At the UVA Biocomplexity Institute, I collaborated with various entities to improve the lives of racial minority-owned businesses, impacting thousands of small businesses and saving taxpayer dollars.
+
+## What skills have I developed recently?
+
+I have been upskilling myself in best engineering practices, effective collaboration with both humans and AI, and participating in online discussions, conferences, and in-person meetups to enhance my work's quality and robustness.
+
+## What makes a great team according to me?
+
+A great team is one where the members have diverse yet cohesive thought processes. I value engaging in conversations and discovering each other's synergies to create a harmonious and effective team.
+
+## How do I contribute to the community?
+
+I actively participate in discussions and events around the DC area and online to form a community of professionals from different spaces, aiming to positively impact each other's work.
+
+## How can people contact me?
+
+I am open to speaking with people and engaging in meaningful conversations. Feel free to contact me to explore potential synergies and collaborations.
 
 
 ## 🛠️ Things that I have worked on during my time as a developer
