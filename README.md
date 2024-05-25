@@ -44,7 +44,7 @@ I actively participate in discussions and events around the DC area and online t
 
 ## How can people contact me?
 
-I am open to speaking with people and engaging in meaningful conversations. Feel free to contact me to explore potential synergies and collaborations.
+I am open to speaking with people and engaging in meaningful conversations. Feel free to contact me on LinkedIn to explore potential synergies and collaborations.
 
 
 ## 🛠️ Things that I have worked on during my time as a developer
