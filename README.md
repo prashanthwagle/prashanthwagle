@@ -44,10 +44,6 @@ Just let me know if you want to keep it open-ended, specific, or somewhere in be
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth98) 
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11004108/prashanth-wagle)  
 
-## ❤️ Support open source & share the knowledge
-
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)  
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ## Side note
 I used to use "--" a lot before while writing, and this was before generative AI became mainstream!
