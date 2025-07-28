@@ -4,7 +4,7 @@
 
 ## What's up!
 
-I'm Prashanth — a full-stack engineer, community learner, GenAI tinkerer, and someone who *really* likes turning messy problems into clean, scalable code.
+I'm Prashanth, a full-stack engineer, community learner, GenAI tinkerer, and someone who *really* likes turning messy problems into clean, scalable code.
 
 ## What does my weekdays and weekends look like?
 
@@ -25,7 +25,7 @@ I love to be outside atleast for a couple of hours. I go on 5K runs every week, 
 - Bachelor’s in Information Science & Engineering
 - Master’s in Computer Science from University of Virginia (GPA: 3.97/4.00)
 - 3+ years of experience solving business problems with tech (and sometimes solving tech problems with business sense)
-- I like balancing depth and speed—shipping quickly, but with structure and patterns that make scaling easier
+- I like balancing depth and speed, shipping quickly, but with structure and patterns that make scaling easier
 
 ## My Tech Stack
 
@@ -48,3 +48,6 @@ Just let me know if you want to keep it open-ended, specific, or somewhere in be
 
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)  
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
+## Side note
+I used to use "--" a lot before while writing, and this was before generative AI became mainstream!
