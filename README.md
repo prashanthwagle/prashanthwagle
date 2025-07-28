@@ -1,82 +1,50 @@
-
-
 <p align="center">
   <img src="https://github.com/prashanthwagle/prashanthwagle/blob/main/2020-12-12_23-44.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+## What's up!
 
+I'm Prashanth — a full-stack engineer, community learner, GenAI tinkerer, and someone who *really* likes turning messy problems into clean, scalable code.
 
-## Who am I?
+## What does my weekdays and weekends look like?
 
-I am a Software Engineer and researcher with a specialization in thriving in research spaces and fast-paced environments.
+I currently work on enterprise-grade .NET systems, but I’m equally fluent in Java, Spring Boot, and React. I'm especially passionate about using **Generative AI** to boost dev productivity, streamline workflows, and cut down noise in the software lifecycle.
 
-## What do I do?
+On the side, I’m usually experimenting with something new—be it AI-powered side projects, open-source contributions, or just automating boring stuff for fun.
 
-I focus on end-to-end application development, problem-solving, and leveraging innovative methodologies to digitize and transform businesses.
+I love to be outside atleast for a couple of hours. I go on 5K runs every week, bike around various trails and invest a healthy amount of time for making my mind and body healthy.
 
-## What excites me?
+## What drives me?
 
-I am excited by opportunities to learn quickly, solve complex problems, and collaborate with diverse teams. I also find joy in organizing events and forming communities that positively impact each other's work.
+- Learning *every single day*—whether it’s a newsletter deep-dive, a new design pattern, or a Reddit thread on system design.
+- Meeting smart, curious people. I attend and host meetups around data, software systems, and AI. If you’re in the DMV area and talk code, I probably want to grab coffee with you.
+- Sharing what I learn. Whether it's a casual Slack convo, a LinkedIn post, or a stack of bookmarks—if it helped me, I’ll probably bring it up in the next conversation.
 
-## What is my educational background?
+## Quick background
 
-I hold a Bachelor's Degree in Information Science and Engineering and a Master's Degree in Computer Science from the prestigious University of Virginia, where I graduated with a GPA of 3.97/4.00.
+- Bachelor’s in Information Science & Engineering
+- Master’s in Computer Science from University of Virginia (GPA: 3.97/4.00)
+- 3+ years of experience solving business problems with tech (and sometimes solving tech problems with business sense)
+- I like balancing depth and speed—shipping quickly, but with structure and patterns that make scaling easier
 
-## What notable achievements do I have from my education?
+## My Tech Stack
 
-At the University of Virginia, I was part of the Graduate Engineering Student Council and organized the flagship UVERS symposium, increasing participation by 68% compared to the previous year.
+**Languages**: C#, Java, Python, JavaScript, TypeScript  
+**Frameworks**: ASP.NET Core, Spring Boot, React, Redux, Spring Security  
+**Databases**: SQL Server, DynamoDB, EF Core, Hibernate, JPA  
+**Tools**: GitFlow, AWS (SageMaker, SQS), Docker, NuGet, npm, Agile, CI/CD, JSON, XML  
+**Bonus Joys**: Java Streams, LINQ, debugging race conditions at 11pm (or when I reach a point where I feel confident of restarting without hassles the next day)
 
-## What significant milestones have I achieved in my career?
+## Let’s connect
 
-During COVID, I played a significant role in digitizing a company, increasing business output by 10%. At the UVA Biocomplexity Institute, I collaborated with various entities to improve the lives of racial minority-owned businesses, impacting thousands of small businesses and saving taxpayer dollars.
+DMs always open on LinkedIn.  
+Better yet, [book a 15-min coffee chat](#) and tell me what you’re learning or building—whether it's super niche or changing the world.  
+Just let me know if you want to keep it open-ended, specific, or somewhere in between!
 
-## What skills have I developed recently?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth98) 
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11004108/prashanth-wagle)  
 
-I have been upskilling myself in best engineering practices, effective collaboration with both humans and AI, and participating in online discussions, conferences, and in-person meetups to enhance my work's quality and robustness.
+## ❤️ Support open source & share the knowledge
 
-## What makes a great team according to me?
-
-A great team is one where the members have diverse yet cohesive thought processes. I value engaging in conversations and discovering each other's synergies to create a harmonious and effective team.
-
-## How do I contribute to the community?
-
-I actively participate in discussions and events around the DC area and online to form a community of professionals from different spaces, aiming to positively impact each other's work.
-
-## How can people contact me?
-
-I am open to speaking with people and engaging in meaningful conversations. Feel free to contact me on LinkedIn to explore potential synergies and collaborations.
-
-
-## What is my tech stack?
-
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-
-
-
-## 📇 Say hi!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth98) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11004108/prashanth-wagle) 
-
-
-
-## Support open source....please!
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) 
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)  
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
